@@ -1,8 +1,3 @@
-3...................................................../*MAFIA program assignment by
-  I.Nikhila Paul(18011A0519)
-  B.Akshitha(18011A0510)
-  V.Akanksha(18011A0550)
-*/
 
 import java.util.*;
 import java.util.Random;
